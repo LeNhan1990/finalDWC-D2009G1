@@ -1,0 +1,117 @@
+@charset "utf-8";
+/* css document */
+*{
+	padding: 0;
+	margin: 0;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.nav .content .footer{
+	background-color: #ffffff;
+}
+.nav img{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	padding-top: 20px;
+}
+.nav ul li{
+	display:inline;
+	padding: 0 20px;
+	color: black;
+	font-size: 13px;
+}
+.nav ul{
+	text-align: center;
+	padding-top: 20px;
+}
+.noidung1{
+	background-image: url("noidung1.jpg");
+	background-size: cover;
+	height: 800px;
+}
+.noidung1 h1{
+	color: white;
+	font-size: 28px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	padding-top: 300px;
+	float: right;
+	padding-right: 70px;
+}
+.noidung2 img{
+	height: 800px;
+	padding-top: 15px;
+	float:right;
+}
+.noidung2 h1{
+	padding-top: 250px;
+	text-align: center;
+	font-size: 16px;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+.noidung2 h2{
+	padding-top: 80px;
+	text-align: center;
+	font-size: 13px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.noidung2 h3{
+	padding-top: 80px;
+	text-align: center;
+	font-size: 13px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.noidung2 h4{
+	padding-top: 80px;
+	text-align: center;
+	font-size: 13px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.noidung3 {
+	padding-top: 280px;
+	display: flex;
+	flex-direction:row;
+	padding-left: 90px;
+}
+.noidung4 img{
+	height: 800px;
+	padding-top: 60px;
+	float:left;
+}
+.noidung4 h1 {
+	padding-top: 400px;
+	text-align: center;
+	font-size: 14px;
+	font-style: italic;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+.noidung5 h1{
+	padding-top: 500px;
+	text-align: center;
+	font-size: 16px;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+.noidung5 img{
+	padding-top: 20px;
+	padding-left: 40px;
+}
+.noidung6 {
+	text-align: center;
+	display:inline-grid;
+	padding-left: 768px;
+	padding-top: 30px;
+}
+input{
+	width: 150px;
+	background: transparent;
+}
+.noidung7{
+	text-align: center;
+}
+.footer h1{
+	padding-top: 100px;
+	text-align: center;
+	font-size: 14px;
+	font-style: italic;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
